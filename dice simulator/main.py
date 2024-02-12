@@ -48,11 +48,14 @@ def generate():
         print("| O   O |")
         print("| O   O |")
         print("---------")
-
-while True:
-    choice = input("\n[+] Press 'y' to roll the dice or 'n' to exit : ")
-    if choice == 'y':
-        generate()
-    else:
-        print("Exiting...")
-        break
+        
+def main():
+    while True:
+        choice = input("\n[+] Press 'y' to roll the dice or 'n' to exit : ")
+        if choice == 'y':
+            generate()
+        else:
+            print("Exiting...")
+            break
+if __name__ == "__main__":
+    main()
