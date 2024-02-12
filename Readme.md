@@ -7,10 +7,7 @@ Welcome to the Python Mini Projects repository! This repository contains a colle
 | Project Name | Description |
 |--------------|-------------|
 | [Project 1](https://github.com/deepz2609/python-mini-projects/tree/12e4e6a18f8ff0f814f276c32ff43d4ce398ab9c/dice_simulator) | A dice simulator is a program that generates random numbers to simulate the rolling of a dice. |
-| [Project 2](./project2)       | A brief description of project 2. |
-| [Project 3](./project3)       | A brief description of project 3. |
-| [Project 4](./project4)       |  A brief description of project 4. |
-| [Project 5](./project5)       | A brief description of project 5. |
+
 
 ## How to Run
 
